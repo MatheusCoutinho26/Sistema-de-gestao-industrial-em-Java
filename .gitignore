@@ -1,0 +1,8 @@
+# Ignorar arquivos compilados do Java
+*.class
+
+# Ignorar pastas de IDEs (Eclipse, IntelliJ, VS Code)
+.metadata/
+.idea/
+*.iml
+.vscode/
